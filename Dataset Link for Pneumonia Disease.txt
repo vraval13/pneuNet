@@ -1,0 +1,2 @@
+Dataset Link for Pneumonia Disease Detection is given below:
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
